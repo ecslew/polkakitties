@@ -23,7 +23,7 @@ class KittyCard extends ReactiveComponent {
                     <Pretty value={kitty.dna} className="limit-name" />
                 </Card.Meta>
                 <Rspan>
-                    <b>Owner</b>: {secretStore().find(this.state.owner).name}
+                    <b>Owner</b>: {secretStore().find(this.state.owner)}
                 </Rspan>
                 &nbsp;
                         <Identicon key={this.state.owner} account={this.state.owner} size={16} />
