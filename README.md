@@ -1,4 +1,4 @@
-# SubstrateKitties
+# 波卡猫
 
 <img src="https://shawntabrizi.github.io/substrate-collectables-workshop/media/substratekitty.png" alt="icon" width="300">
 
