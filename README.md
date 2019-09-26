@@ -4,4 +4,5 @@
 
 Follow the tutorial here to learn more:
 
-https://shawntabrizi.github.io/substrate-collectables-workshop/
+https://substrate.dev/substrate-collectables-workshop/#/zh-cn/README
+
